@@ -2,7 +2,7 @@ Pour récupérer le dossier :
 - Créer le dossier où tous les fichiers du repository vont être stockés.
 - Dans le terminal :
     - aller dans ce fichier (commande cd)
-    - git clone https://github.com/Ultimaterror/w10-eval.git .
+    - git clone https://github.com/Ultimaterror/W10-eval.git .
     - composer install
     - cp .env.example .env
 - Créer une BDD
