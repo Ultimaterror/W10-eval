@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(54, 54, 54);
+    color: white;
+    text-align: center;
+}
+
+nav {
+    padding: 20px;
+    background-color: dimgray;
+    text-align: left;
+}
+
+a {
+    color: white;
+    margin: 5px;
+    padding: 2px;
+}
+
+a:hover {
+    background-color: rgb(64, 64, 64);
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    table-layout: fixed;
+    margin: auto;
+}
+
+td, th {
+    padding: 8px;
+    border: black 1px solid;
+}
+
+
